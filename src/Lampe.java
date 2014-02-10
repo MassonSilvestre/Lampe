@@ -24,6 +24,7 @@ public class Lampe {
 	/**
 	 * @param puissance
 	 *            the puissance to set
+	 *            salut
 	 */
 	public void setPuissance(int puissance) {
 		this.puissance = puissance;
